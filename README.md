@@ -9,7 +9,7 @@ This project focuses on implementing emotion detection using Convolutional Neura
 - [Features](#features)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing
+- [Contributing](#contributing)
 
 ## Introduction
 
